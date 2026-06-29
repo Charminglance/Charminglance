@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: replace with your actual banner image -->
-<img src="assets/github-banner.png" alt="Safeel A" width="100%" style="border-radius:8px" />
+<img src="assets/github-banner.png" alt="Safeel A" width="100%" height="200" style="border-radius:8px;object-fit:cover;object-position:center" />
 
 </div>
 
@@ -12,6 +12,8 @@
 # Safeel A
 
 **Full Stack Developer · AI Applications · Kerala, India**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications.;Turning+ideas+into+real+products.;Full+Stack+Developer.;Always+building+something+new." alt="Typing SVG" />
 
 Building AI-powered applications and modern web experiences that solve real-world problems.
 
