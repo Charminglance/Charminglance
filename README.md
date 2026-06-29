@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: replace with your actual banner image -->
-<img src="assets/github-baner.png" alt="Safeel A" width="100%" style="border-radius:8px" />
+<img src="assets/github-banner.png" alt="Safeel A" width="100%" style="border-radius:8px" />
 
 </div>
 
