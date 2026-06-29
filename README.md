@@ -9,23 +9,9 @@ I enjoy building practical AI-powered applications and modern web experiences th
 </p>
 
 <p align="center">
-
-<a href="https://safeel.in">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-safeel.in-00C896?style=for-the-badge"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/itssafeel">
-<img src="https://img.shields.io/badge/LinkedIn-itssafeel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:safeelsaffy@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<a href="https://safeel.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://linkedin.com/in/itssafeel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:safeelsaffy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications.;Full+Stack+Developer.;Turning+ideas+into+products."/>
 
