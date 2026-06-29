@@ -1,131 +1,123 @@
 <div align="center">
 
+<!-- Banner: replace with your actual banner image -->
+<img src="assets/github-banner.png" alt="Safeel A" width="100%" style="border-radius:8px" />
+
+</div>
+
+<br>
+
+<div align="center">
+
 # Safeel A
 
-### Full Stack Developer • AI Applications • Building Useful Things
+**Full Stack Developer · AI Applications · Kerala, India**
 
-<p>
-I enjoy building practical AI-powered applications and modern web experiences that solve real-world problems.
-</p>
+Building AI-powered applications and modern web experiences that solve real-world problems.
 
-<p align="center">
-<a href="https://safeel.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"></a>
-<a href="https://linkedin.com/in/itssafeel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-<a href="mailto:safeelsaffy@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications.;Full+Stack+Developer.;Turning+ideas+into+products."/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://safeel.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/itssafeel)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:safeelsaffy@gmail.com)
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Charminglance&label=Profile%20Views&color=00C896&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Charminglance&label=Profile%20Views&color=00C896&style=flat" alt="Profile Views" />
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
 ```javascript
 const safeel = {
-  name: "Safeel A",
+  name:     "Safeel A",
   username: "Charminglance",
-
-  role: "Full Stack Developer",
-
-  focus: [
-    "Artificial Intelligence",
-    "Full Stack Development",
-    "Modern Web Applications"
-  ],
-
-  featuredProjects: [
-    "MedScan",
-    "CropScan",
-    "Inspiria'25 Website"
-  ]
+  role:     "Full Stack Developer",
+  focus:    ["Artificial Intelligence", "Full Stack Development", "Modern Web"],
+  building: ["MedScan", "CropScan", "Inspiria'25"],
 };
 ```
 
----
-
-# Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
-</p>
-
-### Backend & AI
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,firebase,mongodb,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+I enjoy working on applications where AI does something genuinely useful — especially local inference, privacy-preserving tools, and fast web experiences.
 
 ---
 
-# Featured Projects
+## Tech Stack
 
-## 🩻 MedScan
+**Frontend**
+`HTML` `CSS` `JavaScript` `React` `Next.js` `Tailwind CSS`
 
-Privacy-first AI radiology assistant powered by Google's **MedGemma 4B**. Performs fully local X-ray analysis and generates structured radiology reports with findings, severity assessment, and clinical recommendations, ensuring medical images never leave the user's machine.
+**Backend & AI**
+`Node.js` `Express` `Python` `Flask` `Firebase` `MongoDB` `MySQL`
 
-**Tech:** Python • Flask • Node.js • Express • MedGemma 4B • Hugging Face
+**AI / ML**
+`MedGemma 4B` `Google Gemma 4` `MobileNetV2` `Ollama` `Hugging Face`
 
----
-
-## 🌿 CropScan
-
-AI-powered plant disease diagnosis platform combining **MobileNetV2** with **Google Gemma 4** to identify crop diseases, explain symptoms in natural language, and recommend treatments and preventive care. Designed for fast, local inference without relying on cloud processing.
-
-**Tech:** Python • Flask • Node.js • Express • MobileNetV2 • Google Gemma 4 • Ollama
+**Tools**
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 🎉 Inspiria'25
+## Featured Projects
 
-Official website developed for **Inspiria'25**, featuring a modern responsive interface, smooth animations, and a performance-focused user experience across desktop and mobile devices.
+### 🩻 MedScan — Privacy-first AI radiology assistant
 
-**Tech:** HTML • CSS • JavaScript
+Fully local X-ray analysis powered by **MedGemma 4B**. Generates structured radiology reports with findings, severity assessment, and clinical recommendations. Medical images never leave the user's machine.
 
----
-
-# GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Charminglance&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=Charminglance&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+`Python` `Flask` `Node.js` `Express` `MedGemma 4B` `Hugging Face`
 
 ---
 
-# Connect
+### 🌿 CropScan — AI plant disease diagnosis
 
-🌐 **Portfolio**  
-https://safeel.in
+Combines **MobileNetV2** with **Google Gemma 4** to identify crop diseases, explain symptoms in natural language, and recommend treatments and preventive care. Fast local inference — no cloud required.
 
-💼 **LinkedIn**  
-https://linkedin.com/in/itssafeel
+`Python` `Flask` `Node.js` `Express` `MobileNetV2` `Google Gemma 4` `Ollama`
 
-📧 **Email**  
-safeelsaffy@gmail.com
+---
+
+### 🎉 Inspiria'25 — Official event website
+
+Modern, responsive site built for **Inspiria'25** with smooth animations and a performance-first experience across desktop and mobile.
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<div align="center">
+
+**↳ More projects on my [GitHub profile](https://github.com/Charminglance)**
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Charminglance&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" height="170" />
+<img src="https://streak-stats.demolab.com?user=Charminglance&theme=github-dark&hide_border=true" height="170" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="170" />
+
+</div>
+
+---
+
+## Connect
+
+| | |
+|---|---|
+| 🌐 **Portfolio** | [safeel.in](https://safeel.in) |
+| 💼 **LinkedIn** | [linkedin.com/in/itssafeel](https://linkedin.com/in/itssafeel) |
+| 📧 **Email** | [safeelsaffy@gmail.com](mailto:safeelsaffy@gmail.com) |
 
 ---
 
 <div align="center">
 
-I enjoy building products that are useful, intuitive, and powered by AI.
-
-Thanks for visiting.
+Building products that are useful, intuitive, and powered by AI.
 
 </div>
