@@ -331,12 +331,12 @@ MES College of Engineering, Kuttippuram, Kerala
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Charminglance&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF&bg_color=0D1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Charminglance&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF&bg_color=0D1117" height="170" />
 <img src="https://streak-stats.demolab.com?user=Charminglance&theme=github-dark&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9B8FF" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C9B8FF&bg_color=0D1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C9B8FF&bg_color=0D1117&hide=jupyter%20notebook" height="170" />
 
 </div>
 
@@ -346,7 +346,7 @@ MES College of Engineering, Kuttippuram, Kerala
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Charminglance&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Charminglance&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -369,8 +369,6 @@ MES College of Engineering, Kuttippuram, Kerala
 <img src="https://raw.githubusercontent.com/Charminglance/Charminglance/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
-
-> _Requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action enabled on your profile repo to generate this SVG automatically._
 
 ---
 
