@@ -336,7 +336,7 @@ MES College of Engineering, Kuttippuram, Kerala
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C9B8FF&bg_color=0D1117&hide=jupyter%20notebook" height="170" />
+<img src="https://github-readme-stats-safeel.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C9B8FF&bg_color=0D1117&hide=jupyter%20notebook" height="170" />
 
 </div>
 
