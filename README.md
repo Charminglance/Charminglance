@@ -331,12 +331,12 @@ MES College of Engineering, Kuttippuram, Kerala
 
 <div align="center">
 
-<img src="https://github-readme-stats-safeel.vercel.app/api?username=Charminglance&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF&bg_color=0D1117" height="170" />
+<img src="https://github-readme-stats-safeel.vercel.app/api?username=Charminglance&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C9B8FF&bg_color=0D1117&cache=1" height="170" />
 <img src="https://streak-stats.demolab.com?user=Charminglance&theme=github-dark&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C9B8FF" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-stats-safeel.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C9B8FF&bg_color=0D1117&hide=jupyter%20notebook" height="170" />
+<img src="https://github-readme-stats-safeel.vercel.app/api/top-langs/?username=Charminglance&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=A78BFA&text_color=C9B8FF&bg_color=0D1117&hide=jupyter%20notebook&cache=1" height="170" />
 
 </div>
 
@@ -346,7 +346,7 @@ MES College of Engineering, Kuttippuram, Kerala
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Charminglance&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy-seven-alpha.vercel.app/?username=Charminglance&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
